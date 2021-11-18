@@ -1,0 +1,12 @@
+1.官方文档： https://projectlombok.org/   https://objectcomputing.com/resources/publications/sett/january-2010-reducing-boilerplate-code-with-project-lombok
+2.作用：减少样板代码。
+3.注解：
+1）@Data  == @Getter 和 @Setter
+2）@NonNull  ->  @NotBlank
+3）@ToString
+4）@EqualsAndHashCode
+5）@Cleanup
+6）@synchronized
+7）@SneakyThrows
+8）@Accessors
+

@@ -1,0 +1,118 @@
+sum:该页面包含Java所有的主流技术栈  https://www.cmsblogs.com/java-all
+--------------基础素质:
+计算机原理
+计算机网络
+数据结构与算法
+设计模式
+--------------Java基础:
+Java基础
+JDK源码
+Java并发
+Java虚拟机
+--------------J2EE:
+Spring
+SpringBoot
+SpringCloud
+SpringCloudAlibaba
+--------------Java工具类:
+Hutool
+Guava
+--------------开发工具:
+Git
+Maven
+IntelliJ IDEA
+Jenkins
+--------------安全&授权:
+Spring Security
+JWT
+Oauth 2.0
+Shiro
+--------------数据库:
+MySQL
+TiDB
+Oracle
+--------------ORM 框架:
+Mybatis
+Hibernate
+Spring Date JPA
+数据库连接池:
+Druid
+HikariCP
+--------------数据库中间件：
+Sharding-JDBC
+Sharding-Sphere
+MyCat
+Canal
+分库分表缓存
+--------------中间件：
+Redis
+Memcached
+本地缓存
+--------------消息中间件：
+Kafka
+RocketMQ
+RabbitMQ
+ActiveMQ
+--------------搜索中间件：
+Lucene
+SOLR
+ElasticSearch
+--------------分布式理论：
+分布式ID
+分布式锁
+分布式幂等
+分布式会话
+分布式相关协议
+--------------分布式注册中心:
+Nacos
+Eureka
+Zookeeper
+Consul
+--------------分布式配置中心:
+Nacos
+Apollo
+Spring Cloud Config
+Disconf
+--------------分布式网关:
+Spring Cloud Gateway
+Zuul
+Nginx
+Kong
+--------------分布式事务:
+TCC-Transaction
+Seata
+--------------分布式链路追踪:
+SkyWalking
+Zipkin
+Pinpoint
+CAT
+--------------分布式预警监控:
+Spring Boot Admin
+Zabbix
+Grafana
+Prometheus
+--------------任务调度:
+XXL-Job
+Elastic-job
+Quartz
+--------------服务调用:
+Dubbo
+Spring Cloud Feign
+gRpc
+Motan
+--------------负载均衡:
+负载均衡算法
+Spring Cloud Ribbon
+Nginx
+--------------服务保障:
+Hystrix
+Sentinel
+--------------大数据:
+Hadoop
+Hive
+Spark
+Flink
+--------------容器服务:
+Linux
+Docker
+Kubernetes
