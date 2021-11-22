@@ -1,13 +1,13 @@
-package com.example.lanqiaoforjava12;
+package com.example.java;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Lanqiaoforjava12Application {
+public class TestApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Lanqiaoforjava12Application.class, args);
+        SpringApplication.run(TestApplication.class, args);
     }
 
 }
